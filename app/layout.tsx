@@ -5,19 +5,19 @@ import { Metadata } from "next";
 
 export const metadata: Metadata = {
 	title: {
-		default: "Compufest",
-		template: "%s | chronark.com",
+		default: "Compufest 2K23",
+		template: "%s | compufest.in",
 	},
-	description: "Software engineer at upstash.com and founder of planetfall.io",
+	description: "An International Level TechFest",
 	openGraph: {
-		title: "chronark.com",
+		title: "Compufest.in",
 		description:
-			"Software engineer at upstash.com and founder of planetfall.io",
-		url: "https://chronark.com",
-		siteName: "chronark.com",
+			"An International Level TechFest",
+		url: "https://compufest.in",
+		siteName: "compufest.in",
 		images: [
 			{
-				url: "https://chronark.com/og.png",
+				url: "https://compufest.in/assets/C1.png",
 				width: 1920,
 				height: 1080,
 			},
@@ -37,11 +37,11 @@ export const metadata: Metadata = {
 		},
 	},
 	twitter: {
-		title: "Chronark",
+		title: "Compufest",
 		card: "summary_large_image",
 	},
 	icons: {
-		shortcut: "/favicon.png",
+		shortcut: "/assets/C1.png",
 	},
 };
 const inter = Inter({
