@@ -77,7 +77,7 @@ const timelineContent = [
     date: '7 Oct 2023',
     title: 'Power Bi Workshop',
     iconurl:'/AnimateIcons/stats.gif',
-    imageurl: '/EventsLogo/PowerBi.png',
+    imageurl: '/EventsLogo/PowerBI.png',
     time: '3pm-4:30pm',
     description: 'This Workshop is about on Web3',
   },
