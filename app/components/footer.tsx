@@ -54,9 +54,8 @@ style={{fill:"#FFFFFF",}}>
           <p className="text-sm text-gray-300 sm:ml-6 sm:mt-0 mt-4 text-center">
             © 2023 Compufest — Developed by
             <a
-              href="#"
+              href="/team"
               className="text-gray-400 ml-2"
-              target="_blank"
               rel="noopener noreferrer"
             >
               @Technical Team
