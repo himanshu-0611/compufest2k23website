@@ -153,7 +153,7 @@ function TeamPage() {
             </div>
           </div>
         </div>
-        <div className="flex justify-center items-center my-14">
+        <div className="flex justify-center items-center my-14" id="technical-team">
           <h1 className="text-white text-5xl font-bold">Technical Team</h1>
         </div>
         <div className="box">

@@ -40,6 +40,11 @@ export default function Home() {
 							sm:text-9xl md:text-9xl whitespace-nowrap bg-clip-text bg-gradient-to-r to-green-600 via-white from-orange-400"
               >
                 <Timer />
+                <div className="flex justify-center align-center">
+
+                <img src="assets/Presents.png" style={{width: "130px"}} className="" alt="" />
+                </div>
+                <p className="text-2xl text-center">presents</p>
                 <img src="assets/Compufest.png" style={{
                  width:"1000px", height:"auto"
                 }}/>
