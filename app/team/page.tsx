@@ -91,7 +91,7 @@ function TeamPage() {
             </div>
             <div className="details">
               <h2>
-                Abhishek Bagde
+                Abhishek Bakde
                 <br />
                 <span>Vice President</span>
               </h2>
@@ -214,7 +214,7 @@ function TeamPage() {
             </div>
             <div className="details">
               <h2>
-                Anshul Shirbate
+                Anshul Shirbhate
                 <br />
                 <span>Member</span>
               </h2>
