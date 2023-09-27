@@ -44,7 +44,7 @@ export default function Home() {
 
                 <img src="assets/Presents.png" style={{width: "130px"}} className="" alt="" />
                 </div>
-                <p className="text-2xl text-center">presents</p>
+                <p className="text-2xl text-center font-sans">Presents</p>
                 <img src="assets/Compufest.png" style={{
                  width:"1000px", height:"auto"
                 }}/>
@@ -59,7 +59,20 @@ export default function Home() {
                 <h1 className="text-white  text-xl lg:text-2xl  flex justify-center items-center">Department of Computer Technology, </h1>
                 <h1 className="text-white lg:text-3xl text-lg font-bold flex justify-center items-centera">Yeshwantrao Chavan College of Engineering</h1>
               </div>
-              <h1 className="text-white  text-lg font-extrabold  flex justify-center items-center">5<sup>th </sup> October 2023 to 7<sup>th</sup> October 2023</h1>
+              <h1 className="text-white  text-lg font-extrabold  flex justify-center items-center">11<sup>th </sup> October 2023 to 13<sup>th</sup> October 2023</h1>
+              
+              <div className="grid lg:grid-cols-2 grid-cols-1 justify-items-center mb-10 lg:mb-0">
+                <div className="">
+                  <p className="text-2xl mt-10 mb-2">Powered by</p>
+                  <img src="assets/poweredby.png" style={{width: "130px"}}  alt="" />
+                </div>
+                <div className="mb-10 lg:mb-0">
+                  <p className="text-2xl mt-10 mb-2">Media Partner</p>
+                  <div className="flex justify-center items-center">
+                    <img src="assets/redfmwhite.jpg" style={{width: "130px"}}  alt="" />
+                  </div>
+                </div>
+              </div>
 
             </div>
 
