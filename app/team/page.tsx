@@ -91,7 +91,7 @@ function TeamPage() {
             </div>
             <div className="details">
               <h2>
-                Abhishek Bagde
+                Abhishek Bakde
                 <br />
                 <span>Vice President</span>
               </h2>
@@ -153,7 +153,7 @@ function TeamPage() {
             </div>
           </div>
         </div>
-        <div className="flex justify-center items-center my-14">
+        <div className="flex justify-center items-center my-14" id="technical-team">
           <h1 className="text-white text-5xl font-bold">Technical Team</h1>
         </div>
         <div className="box">
@@ -214,7 +214,7 @@ function TeamPage() {
             </div>
             <div className="details">
               <h2>
-                Anshul Shirbate
+                Anshul Shirbhate
                 <br />
                 <span>Member</span>
               </h2>

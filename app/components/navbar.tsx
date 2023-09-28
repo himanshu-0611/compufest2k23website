@@ -63,7 +63,7 @@ export default function NavbarAvatarPreview() {
             <ul
               role="menubar"
               aria-label="Select page"
-              className={`absolute top-0 left-0 z-[-1] h-[24.5rem] w-full justify-center bg-transparent overflow-hidden  overflow-y-auto overscroll-contain rounded-2xl px-8 pb-12 pt-24 font-medium transition-[opacity,visibility] duration-300 lg:visible lg:relative lg:top-0  lg:z-0 lg:flex lg:h-full lg:w-auto lg:items-stretch lg:overflow-visible  lg:px-0 lg:py-0  lg:pt-0 lg:opacity-100 ${isToggleOpen
+              className={`absolute top-0 left-0 z-[-1] h-[27.5rem] w-full justify-center bg-transparent overflow-hidden  overflow-y-auto overscroll-contain rounded-2xl px-8 pb-12 pt-24 font-medium transition-[opacity,visibility] duration-300 lg:visible lg:relative lg:top-0  lg:z-0 lg:flex lg:h-full lg:w-auto lg:items-stretch lg:overflow-visible  lg:px-0 lg:py-0  lg:pt-0 lg:opacity-100 ${isToggleOpen
                 ? "visible opacity-80 bg-white backdrop-blur-lg overflow-hidden a"
                 : "invisible opacity-0"
                 }`}

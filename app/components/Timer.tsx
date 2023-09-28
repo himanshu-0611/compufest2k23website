@@ -28,7 +28,7 @@ const Timer = () => {
 
   const calculateCountdown = () => {
     // Set the target time in Indian Standard Time (IST)
-    const targetTime = moment.tz("2023-10-05 12:00:00", "Asia/Kolkata");
+    const targetTime = moment.tz("2023-10-11 12:00:00", "Asia/Kolkata");
     
     const currentTime = moment();
     const timeDifference = targetTime.diff(currentTime);
