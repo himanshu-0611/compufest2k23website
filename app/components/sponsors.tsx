@@ -15,7 +15,7 @@ const Sponsors = () => {
   return (
     <div className="py-6 z-10  text-transparent  cursor-default text-edge-outline animate-title  whitespace-nowrap bg-clip-text">
       <div className="justify-items-center mb-10 lg:mb-0">
-      <p className="text-3xl text-center font-sans text-white">Sponsered By </p>
+      <p className="text-3xl text-center font-sans text-white">Sponsored By </p>
         <div className="lg:flex lg:flex-row ">
           <div className="lg:flex lg:flex-wrap grid grid-rows-3 grid-flow-col gap-4 p-6">
             {logos.map((logo, index) => (
