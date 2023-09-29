@@ -353,6 +353,23 @@ function TeamPage() {
               </h2>
             </div>
           </div>
+
+          <div className="card-sm">
+            <div className="imgBx">
+              <img
+                src="assets/gunjan.jpg"
+                alt="images"
+              />
+            </div>
+            <div className="details">
+              <h2>
+              Gunjan Bagaitkar
+                <br />
+                <span>Member</span>
+              </h2>
+            </div>
+          </div>
+
         </div>
         <div className="flex justify-center items-center my-14">
           <h1 className="text-white text-5xl font-bold">Literary Team</h1>

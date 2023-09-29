@@ -32,46 +32,14 @@ export default function EventSlider() {
         <SwiperSlide >
           <div className="slide-content ">
             <a href="/events">
-              <img src="assets/Flyers/arduino.jpg" className="glow"/>
+              <img src="https://img.playbook.com/mWj-6t74UnIGJkvzBcRT6ntmgWEGh7-JqBzHFXLSfkE/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzBjZjZlMTY1/LTZjNjAtNDdjYy1i/MTFjLWI4MDU2YThk/NTVkNw" className="glow"/>
             </a>
           </div>
         </SwiperSlide>
         <SwiperSlide>
           <div className="slide-content">
             <a href="/events">
-              <img src="assets/Flyers/uiux.jpg" className="glow"/>
-            </a>
-          </div>
-        </SwiperSlide>
-
-        
-
-        <SwiperSlide>
-          <div className="slide-content">
-            <a href="/events">
-              <img src="assets/Flyers/webnetic.jpg" className="glow"/>
-            </a>
-          </div>
-        </SwiperSlide>
-
-        <SwiperSlide>
-          <div className="slide-content">
-            <a href="/events">
-              <img src="assets/Flyers/computingtechnology.jpg" className="glow"/>
-            </a>
-          </div>
-        </SwiperSlide>
-        <SwiperSlide>
-          <div className="slide-content">
-            <a href="/events">
-              <img src="assets/Flyers/optimizer.jpg" className="glow"/>
-            </a>
-          </div>
-        </SwiperSlide>
-        <SwiperSlide>
-          <div className="slide-content">
-            <a href="/events">
-              <img src="assets/Flyers/web3.jpg" className="glow"/>
+              <img src="https://img.playbook.com/79Gus-hpj2F0O9AqQdAdsAD_dZVuiRSAk_xM4M2MxJA/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzcxYjhhMTcz/LWQzZWItNDkwNy1h/OWQ0LWFhYjBlMTg2/MjUwNA" className="glow"/>
             </a>
           </div>
         </SwiperSlide>
@@ -81,7 +49,39 @@ export default function EventSlider() {
         <SwiperSlide>
           <div className="slide-content">
             <a href="/events">
-              <img src="assets/Flyers/powerbi.jpg" className="glow"/>
+              <img src="https://img.playbook.com/TU3d7yqgpf25fTbntLrJwY0cT8EWr7RseCAFHuEmv3g/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljL2UyMjNhNDQ0/LWI1Y2UtNDc3NS1i/OTZhLWI2MmZmOWYy/MTIwYQ" className="glow"/>
+            </a>
+          </div>
+        </SwiperSlide>
+
+        <SwiperSlide>
+          <div className="slide-content">
+            <a href="/events">
+              <img src="https://img.playbook.com/Gga0n6J6xkXaoYxSFqAs5mXGRgtvMNf0Z1EMJE4mnio/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljL2MwYTc4OTM0/LWYxMWItNDEyMy1h/OTI0LWM5MGQyZGZl/YzVmYw" className="glow"/>
+            </a>
+          </div>
+        </SwiperSlide>
+        <SwiperSlide>
+          <div className="slide-content">
+            <a href="/events">
+              <img src="https://img.playbook.com/9pHUu0mMMaIG2flkVVZo9NZbft9uvzjzOXs9GLhDrW0/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzFkMzIzOTY2/LTM3ZDQtNDBmNi04/YjI3LWQ5M2MxMTky/ZjMwZA" className="glow"/>
+            </a>
+          </div>
+        </SwiperSlide>
+        <SwiperSlide>
+          <div className="slide-content">
+            <a href="/events">
+              <img src="https://img.playbook.com/9pHUu0mMMaIG2flkVVZo9NZbft9uvzjzOXs9GLhDrW0/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzFkMzIzOTY2/LTM3ZDQtNDBmNi04/YjI3LWQ5M2MxMTky/ZjMwZA" className="glow"/>
+            </a>
+          </div>
+        </SwiperSlide>
+
+        
+
+        <SwiperSlide>
+          <div className="slide-content">
+            <a href="/events">
+              <img src="https://img.playbook.com/AYbGSJdBOcivbhDsA_ENZNXEUFLO_7Gahs42qJL-O7E/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljL2Q5ZjYwZjdl/LTNiODMtNGNjNy1i/ODE5LWRlNTU5ODM2/NThhOQ" className="glow"/>
             </a>
           </div>
         </SwiperSlide> 
