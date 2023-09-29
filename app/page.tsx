@@ -8,6 +8,7 @@ import StepperTimeline from "./components/timeline";
 import Testimonial from "./components/Testimonial";
 import EventSlider from "./components/EventSlider";
 import About from "./components/about";
+import Sponsors from "./components/sponsors";
 
 import Navbar from "./components/navbar";
 import "./page.css";
@@ -107,7 +108,7 @@ export default function Home() {
             <div className="p-5">
               <About />
             </div>
-
+            <Sponsors/>
             <Testimonial />
 
           </div>

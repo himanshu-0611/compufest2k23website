@@ -77,7 +77,7 @@ const About = () => {
               </div>
 
               <div className="text-justify lg:text-center">
-                is to be a well-known center for pursuing computer education
+                To be a well-known center for pursuing computer education
                 through innovative pedagogy, value-based education and industry
                 collaboration.
               </div>
@@ -87,8 +87,8 @@ const About = () => {
                 Mission of the Department
               </div>
 
-              <div className="flex items-center text-center  lg:text-center">
-                is to establish learning ambience for ushering in computer
+              <div className="flex items-center text-justify  lg:text-center">
+                To establish learning ambience for ushering in computer
                 engineering professionals in core and multidisciplinary
                 arena by developing problem-solving skills through emerging technologies.
               </div>
