@@ -4,7 +4,7 @@ import 'react-vertical-timeline-component/style.min.css';
 
 const timelineContent = [
   {
-    date: '5 Oct 2023',
+    date: '11 Oct 2023',
     title: 'UI UX Bootcamp',
     iconurl:'/AnimateIcons/computer.gif',
     imageurl: '/EventsLogo/UiUx.png',
@@ -12,7 +12,7 @@ const timelineContent = [
     description: 'This Workshop is about on Web3',
   },
   {
-    date: '5 Oct 2023',
+    date: '11 Oct 2023',
     title: 'Versus Coding',
     iconurl:'/AnimateIcons/vs.gif',
     imageurl: '/EventsLogo/VersusCoding.png',
@@ -20,29 +20,22 @@ const timelineContent = [
     description: 'This Workshop is about on Web3',
   },
   {
-    date: '5 Oct 2023',
+    date: '11 Oct 2023',
     title: 'WebNetics',
     iconurl:'/AnimateIcons/statistics.gif',
     imageurl: '/EventsLogo/WebNetics.png',
     time: '2pm-3pm',
     description: 'This Workshop is about on Web3',
   },
-  {
-    date: '5 Oct 2023',
-    title: 'Versus Coding(R-2)',
-    iconurl:'/AnimateIcons/vs.gif',
-    imageurl: '/EventsLogo/VersusCoding.png',
-    time: '3pm-4pm',
-    description: 'This Workshop is about on Web3',
-  },{
-    date: '5 Oct 2023',
+ {
+    date: '11 Oct 2023',
     title: 'Optimiser',
     iconurl:'/AnimateIcons/setting.gif',
     imageurl: '/EventsLogo/Optimizer.png',
     time: '9pm-11.30pm',
     description: 'This Workshop is about on Web3',
   },{
-    date: '6 Oct 2023',
+    date: '12 Oct 2023',
     title: 'Scripted Secrets',
     iconurl:'/AnimateIcons/cyborg.gif',
     imageurl: '/EventsLogo/Scripted.png',
@@ -50,15 +43,7 @@ const timelineContent = [
     description: 'This Workshop is about on Web3',
   },
   {
-    date: '6 Oct 2023',
-    title: 'Versus Coding(R-3)',
-    iconurl:'/AnimateIcons/vs.gif',
-    imageurl: '/EventsLogo/VersusCoding.png',
-    time: '2pm-4pm',
-    description: 'This Workshop is about on Web3',
-  },
-  {
-    date: '6 Oct 2023',
+    date: '12 Oct 2023',
     title: 'Arduino Workshop',
     iconurl:'/AnimateIcons/multiple-sensor.gif',
     imageurl: '/EventsLogo/Arduino.png',
@@ -66,7 +51,7 @@ const timelineContent = [
     description: 'This Workshop is about on Web3',
   },
   {
-    date: '6 Oct 2023',
+    date: '12 Oct 2023',
     title: 'Web3 Workshop', 
     iconurl:'/AnimateIcons/blocked.gif',
     imageurl: '/EventsLogo/Web3.png',
@@ -74,7 +59,7 @@ const timelineContent = [
     description: 'This Workshop is about on Web3',
   },
   {
-    date: '7 Oct 2023',
+    date: '12 Oct 2023',
     title: 'Power Bi Workshop',
     iconurl:'/AnimateIcons/stats.gif',
     imageurl: '/EventsLogo/PowerBI.png',
@@ -82,7 +67,7 @@ const timelineContent = [
     description: 'This Workshop is about on Web3',
   },
   {
-    date: '6 Oct 2023',
+    date: '12 Oct 2023',
     title: 'Computing Technologies',
     iconurl:'/AnimateIcons/coding.gif',
     imageurl: '/EventsLogo/ComputingTechnology.png',
