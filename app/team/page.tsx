@@ -21,7 +21,7 @@ function TeamPage() {
             </div>
             <div className="details">
               <h2>
-                Dr. Rakhi Wajgi1
+                Dr. Rakhi Wajgi
                 <br />
                 <span>HOD C.Tech</span>
               </h2>
@@ -47,8 +47,216 @@ function TeamPage() {
 
         <div className="flex justify-center items-center my-14">
           <h1 className="text-white lg:text-5xl text-xl font-bold">
-          Computer Technology 
-          Student Council
+            Core Team
+          </h1>
+        </div>
+
+        <div className="box">
+
+          <div className="card-sm">
+            <div className="imgBx">
+              <img src="assets/parthU.jpg" alt="images" />
+            </div>
+            <div className="details">
+              <h2>
+                Parth Upagade
+                <br />
+                <span>President</span>
+              </h2>
+            </div>
+          </div>
+
+          <div className="card-sm">
+            <div className="imgBx">
+              <img
+                src="https://img.playbook.com/rHye5XS-TPz0WEAIg70zvlP5iG4XsU7LOPjFlMHBtqI/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzA2MWQzZjkx/LTdkN2EtNGNjZS1i/MGRkLTM4NzFjMGMw/YzcwNw "
+                alt="images"
+              />
+            </div>
+            <div className="details">
+              <h2>
+                Himanshu Agarkar
+                <br />
+                <span>Chairperson</span>
+              </h2>
+            </div>
+          </div>
+
+          <div className="card-sm">
+            <div className="imgBx">
+              <img
+                src="https://img.playbook.com/s5FqlUlHmIv_cH9dJtOr6M2x8YG1FZxlwQDypOTLLF0/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzMwNWRhY2E3/LTFhM2EtNGJjNS1i/NDgxLTM0NmI5OTE0/ZTJiNA"
+                alt="images"
+              />
+            </div>
+            <div className="details">
+              <h2>
+                Aditya Balki
+                <br />
+                <span>Head</span>
+              </h2>
+            </div>
+          </div>
+
+          <div className="card-sm">
+            <div className="imgBx">
+              <img
+                src="https://img.playbook.com/BA2jK9EozTSjFL6aaLo27mJlFsAQOX7dUaFz8hdebx8/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzI0OGFiMTVm/LWYwMmMtNDZiMS04/NGQzLWQwYTk4OTk3/MDRmNQ"
+                alt="images"
+              />
+            </div>
+            <div className="details">
+              <h2>
+                Vaishnavi Belurkar
+                <br />
+                <span>Head</span>
+              </h2>
+            </div>
+          </div>
+
+          <div className="card-sm">
+            <div className="imgBx">
+              <img
+                src="optimum/Sushant Mulmuley.jpg"
+                alt="images"
+              />
+            </div>
+            <div className="details">
+              <h2>
+                Sushant Mulmuley
+                <br />
+                <span>Head</span>
+              </h2>
+            </div>
+          </div>
+
+          <div className="card-sm">
+            <div className="imgBx">
+              <img
+                src="https://img.playbook.com/MyptdtVV_PMHgeGSu3bp_eMTsLd78qG55s7LfOOBGnw/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljL2VmZjQ5ODg5/LTA2MTgtNDIxMi1i/NWQyLTBmYTU4OTVl/ZGJjMA"
+                alt="images"
+              />
+            </div>
+            <div className="details">
+              <h2>
+                Piyush Kalamkar
+                <br />
+                <span>head</span>
+              </h2>
+            </div>
+          </div>
+        </div>
+
+        <div className="flex justify-center items-center my-14">
+          <h1 className="text-white lg:text-5xl text-xl font-bold">
+            Semi-Core Team
+          </h1>
+        </div>
+
+        <div className="box">
+
+          <div className="card-sm">
+            <div className="imgBx">
+              <img
+                src="https://img.playbook.com/_dzASYLJFNJWevO8Cndn39eQWxChGkSBIJIY99CdvjA/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzkwNjU1NmMx/LWZmNDgtNDY4Ny05/NTU5LWJmMjQ2Y2M4/MTY2Yg"
+                alt="images"
+              />
+            </div>
+            <div className="details">
+              <h2>
+                Tanish Jhamtani
+                <br />
+                <span>Vice Chairperson</span>
+              </h2>
+            </div>
+          </div>
+
+          <div className="card-sm">
+            <div className="imgBx">
+              <img
+                src="https://media.licdn.com/dms/image/D5603AQGnDP3yDzKL_w/profile-displayphoto-shrink_400_400/0/1686916568545?e=1700092800&v=beta&t=nTxQWZ8CPtzMUbWSO88WJzVXBKxm3HuJBnXyZ1f63hs"
+                alt="images"
+              />
+            </div>
+            <div className="details">
+              <h2>
+                Aman Raut
+                <br />
+                <span>CO-Head</span>
+              </h2>
+            </div>
+          </div>
+
+          <div className="card-sm">
+            <div className="imgBx">
+              <img
+                src="https://img.playbook.com/_VAVNI6nZRYo3RTlgtVkKfLFEAtioqXeGZE53EDFuxo/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzljYjQyMTMx/LTlhZTUtNDNhMy05/NDUzLWVhNWViZjQy/NTk1OA"
+                alt="images"
+              />
+            </div>
+            <div className="details">
+              <h2>
+                Priya Kriplani
+                <br />
+                <span>CO-Head</span>
+              </h2>
+            </div>
+          </div>
+
+          <div className="card-sm">
+            <div className="imgBx">
+              <img
+                src="https://img.playbook.com/RJ1Skr7clvf3N3auMyAghMX8uth8TbyGT2LrvsaZ7qo/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzQ3Mjc1Y2Qx/LTNhNGUtNDQyNS1i/ODllLWU0MGQ0YTJl/Zjc1Ng"
+                alt="images"
+              />
+            </div>
+            <div className="details">
+              <h2>
+                Anushri Jamar
+                <br />
+                <span>CO-Head</span>
+              </h2>
+            </div>
+          </div>
+
+          <div className="card-sm">
+            <div className="imgBx">
+              <img
+                src="optimum/Akshata dongre.jpg"
+                alt="images"
+              />
+            </div>
+            <div className="details">
+              <h2>
+                Akshata Dongre
+                <br />
+                <span>Co-Head</span>
+              </h2>
+            </div>
+          </div>
+
+          <div className="card-sm">
+            <div className="imgBx">
+              <img
+                src="https://img.playbook.com/HzcH2ywV3IFN0D0dXHODitV0G1Dc-kO1xdf1oYZQiiM/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzk5NGMzNzVl/LTZjMjktNDEyNC05/YmQyLTYwZjJiZmE0/MTk0OQ"
+                alt="images"
+              />
+            </div>
+            <div className="details">
+              <h2>
+                Rudrav Mahure
+                <br />
+                <span>CO-head</span>
+              </h2>
+            </div>
+          </div>
+        </div>
+
+
+        <div className="flex justify-center items-center my-14">
+          <h1 className="text-white lg:text-5xl text-xl font-bold">
+            Computer Technology
+            Student Council
           </h1>
         </div>
 
@@ -69,7 +277,7 @@ function TeamPage() {
           <div className="card-sm">
             <div className="imgBx">
               <img
-              src="assets/yashB.jpg"
+                src="assets/yashB.jpg"
                 alt="images"
               />
             </div>
@@ -85,7 +293,7 @@ function TeamPage() {
           <div className="card-sm">
             <div className="imgBx">
               <img
-               src="assets/abhishek.jpg"
+                src="assets/abhishek.jpg"
                 alt="images"
               />
             </div>
@@ -267,7 +475,7 @@ function TeamPage() {
             </div>
             <div className="details">
               <h2>
-              Aditya Balki
+                Aditya Balki
                 <br />
                 <span>Head</span>
               </h2>
@@ -347,7 +555,7 @@ function TeamPage() {
             </div>
             <div className="details">
               <h2>
-              Atharva Athawale
+                Atharva Athawale
                 <br />
                 <span>Member</span>
               </h2>
@@ -363,7 +571,7 @@ function TeamPage() {
             </div>
             <div className="details">
               <h2>
-              Gunjan Bagaitkar
+                Gunjan Bagaitkar
                 <br />
                 <span>Member</span>
               </h2>
@@ -375,6 +583,7 @@ function TeamPage() {
           <h1 className="text-white text-5xl font-bold">Literary Team</h1>
         </div>
         <div className="box">
+
           <div className="card-sm">
             <div className="imgBx">
               <img
@@ -384,7 +593,7 @@ function TeamPage() {
             </div>
             <div className="details">
               <h2>
-              Vaishnavi Belurkar
+                Vaishnavi Belurkar
                 <br />
                 <span>Head</span>
               </h2>
@@ -464,7 +673,7 @@ function TeamPage() {
             </div>
             <div className="details">
               <h2>
-              Parul Raut
+                Parul Raut
                 <br />
                 <span>Member</span>
               </h2>
@@ -479,7 +688,7 @@ function TeamPage() {
             </div>
             <div className="details">
               <h2>
-              Shatakshi Basarkar
+                Shatakshi Basarkar
                 <br />
               </h2>
             </div>
@@ -493,7 +702,7 @@ function TeamPage() {
             </div>
             <div className="details">
               <h2>
-              Sharvani Gharge
+                Sharvani Gharge
                 <br />
                 <span>Member</span>
               </h2>
@@ -508,7 +717,7 @@ function TeamPage() {
             </div>
             <div className="details">
               <h2>
-              Janya Kinker
+                Janya Kinker
                 <br />
                 <span>Member</span>
               </h2>
@@ -523,14 +732,14 @@ function TeamPage() {
             </div>
             <div className="details">
               <h2>
-              Manaswi Dhote
+                Manaswi Dhote
                 <br />
                 <span>Member</span>
               </h2>
             </div>
           </div>
         </div>
-        
+
         <div className="flex justify-center items-center my-14">
           <h1 className="text-white text-5xl font-bold">Team Optimum</h1>
         </div>
@@ -554,7 +763,7 @@ function TeamPage() {
           <div className="card-sm">
             <div className="imgBx">
               <img
-              src="optimum/Akshata dongre.jpg"
+                src="optimum/Akshata dongre.jpg"
                 alt="images"
               />
             </div>
@@ -570,8 +779,8 @@ function TeamPage() {
           <div className="card-sm">
             <div className="imgBx">
               <img
-              src="optimum/Jay Kahate.jpg"
-              alt="images"
+                src="optimum/Jay Kahate.jpg"
+                alt="images"
               />
             </div>
             <div className="details">
@@ -586,7 +795,7 @@ function TeamPage() {
           <div className="card-sm">
             <div className="imgBx">
               <img
-              src="optimum/Mrunal pohekar.jpg"
+                src="optimum/Mrunal pohekar.jpg"
                 alt="images"
               />
             </div>
@@ -602,7 +811,7 @@ function TeamPage() {
           <div className="card-sm">
             <div className="imgBx">
               <img
-              src="optimum/Namish parate.jpg"
+                src="optimum/Namish parate.jpg"
                 alt="images"
               />
             </div>
@@ -618,13 +827,13 @@ function TeamPage() {
           <div className="card-sm">
             <div className="imgBx">
               <img
-              src="optimum/Prajwal potfode.jpg"
+                src="optimum/Prajwal potfode.jpg"
                 alt="images"
               />
             </div>
             <div className="details">
               <h2>
-               Prajwal Potfode
+                Prajwal Potfode
                 <br />
                 <span>Member</span>
               </h2>
@@ -634,7 +843,7 @@ function TeamPage() {
           <div className="card-sm">
             <div className="imgBx">
               <img
-              src="optimum/Pranav pandit.jpg"
+                src="optimum/Pranav pandit.jpg"
                 alt="images"
               />
             </div>
@@ -650,7 +859,7 @@ function TeamPage() {
           <div className="card-sm">
             <div className="imgBx">
               <img
-              src="optimum/Saniya madame.jpg"
+                src="optimum/Saniya madame.jpg"
                 alt="images"
               />
             </div>
@@ -666,7 +875,7 @@ function TeamPage() {
           <div className="card-sm">
             <div className="imgBx">
               <img
-              src="optimum/Shivam Durbule.jpg"
+                src="optimum/Shivam Durbule.jpg"
                 alt="images"
               />
             </div>
@@ -923,7 +1132,7 @@ function TeamPage() {
           <a href="/">Home</a>
         </button>
       </div>
-    </div>
+    </div >
   );
 }
 
