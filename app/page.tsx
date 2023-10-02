@@ -9,14 +9,13 @@ import Testimonial from "./components/Testimonial";
 import EventSlider from "./components/EventSlider";
 import About from "./components/about";
 import Sponsors from "./components/sponsors";
-
 import Navbar from "./components/navbar";
 import "./page.css";
 
 export default function Home() {
   return (
     <div className="scroll-smooth auto" style={{
-      background:"rgba(0,0,0,0.5)"
+      background: "rgba(0,0,0,0.5)"
     }}>
       <div className="video-container">
         <video autoPlay muted loop className="video-background">
@@ -43,12 +42,12 @@ export default function Home() {
                 <Timer />
                 <div className="flex justify-center align-center">
 
-                <img src="assets/Presents.png" style={{width: "130px"}} className="" alt="" />
+                  <img src="assets/Presents.png" style={{ width: "130px" }} className="" alt="" />
                 </div>
                 <p className="text-2xl text-center font-sans">Presents</p>
                 <img src="assets/Compufest.png" style={{
-                 width:"1000px", height:"auto"
-                }}/>
+                  width: "1000px", height: "auto"
+                }} />
               </h1>
 
 
@@ -61,16 +60,16 @@ export default function Home() {
                 <h1 className="text-white lg:text-3xl text-lg font-bold flex justify-center items-centera">Yeshwantrao Chavan College of Engineering</h1>
               </div>
               <h1 className="text-white  text-lg font-extrabold  flex justify-center items-center">11<sup>th </sup> October 2023 to 13<sup>th</sup> October 2023</h1>
-              
+
               <div className="grid lg:grid-cols-2 grid-cols-1 justify-items-center mb-10 lg:mb-0">
                 <div className="">
                   <p className="text-2xl mt-10 mb-2">Powered by</p>
-                  <img src="assets/poweredby.png" style={{width: "130px"}}  alt="" />
+                  <img src="assets/poweredby.png" style={{ width: "130px" }} alt="" />
                 </div>
                 <div className="mb-10 lg:mb-0">
                   <p className="text-2xl mt-10 mb-2">Media Partner</p>
                   <div className="flex justify-center items-center">
-                    <img src="assets/redfmwhite.jpg" style={{width: "130px"}}  alt="" />
+                    <img src="assets/redfmwhite.jpg" style={{ width: "130px" }} alt="" />
                   </div>
                 </div>
               </div>
@@ -78,10 +77,11 @@ export default function Home() {
             </div>
 
             <div>
-              
 
-             
+
+              <EventSlider />
               <div className="justify-center flex py-10" >
+
                 <button
                   type="button"
                   className="text-white bg-gray-800 hover:bg-gray-900 focus:outline-none focus:ring-4 focus:ring-gray-300 font-medium rounded-full text-xl px-5 py-2.5 mr-2 mb-2 dark:bg-gray-800 dark:hover:bg-gray-700 dark:focus:ring-gray-700 dark:border-gray-700"
@@ -104,7 +104,7 @@ export default function Home() {
             <div className="p-5">
               <About />
             </div>
-            <Sponsors/>
+            <Sponsors />
             <Testimonial />
 
           </div>
