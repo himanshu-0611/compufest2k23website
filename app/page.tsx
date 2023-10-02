@@ -10,6 +10,7 @@ import EventSlider from "./components/EventSlider";
 import About from "./components/about";
 import Sponsors from "./components/sponsors";
 import Navbar from "./components/navbar";
+import Swiper from "./components/Swiper";
 import "./page.css";
 
 export default function Home() {
@@ -77,11 +78,18 @@ export default function Home() {
             </div>
 
             <div>
+              <h1
+                className="text-5xl flex justify-center font-bold text-white lg:pt-5 lg:pb-14"
 
+              >
+                Events
+              </h1>
 
-              <EventSlider />
+              <div className="w-full">
+                <Swiper />
+              </div>
+
               <div className="justify-center flex py-10" >
-
                 <button
                   type="button"
                   className="text-white bg-gray-800 hover:bg-gray-900 focus:outline-none focus:ring-4 focus:ring-gray-300 font-medium rounded-full text-xl px-5 py-2.5 mr-2 mb-2 dark:bg-gray-800 dark:hover:bg-gray-700 dark:focus:ring-gray-700 dark:border-gray-700"
