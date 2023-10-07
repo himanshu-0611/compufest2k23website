@@ -3,6 +3,7 @@ import { VerticalTimeline, VerticalTimelineElement } from 'react-vertical-timeli
 import 'react-vertical-timeline-component/style.min.css';
 
 const timelineContent = [
+  // Technical events
   {
     date: '11 Oct 2023',
     title: 'UI UX Bootcamp',
@@ -74,7 +75,74 @@ const timelineContent = [
     time: '4pm Onwards',
     description: 'This Workshop is about on Web3',
   },
+  // non-technical events
+  {
+    date: '11 Oct 2023',
+    title: 'Chess',
+    iconurl:'/AnimateIcons/chess.gif',
+    imageurl: '/EventsLogo/CHESS.png',
+    time: '10am Onwards',
+    description: 'This Workshop is about on Web3',
+  },
+  {
+    date: '11 Oct 2023',
+    title: 'Power Rumble',
+    iconurl:'/AnimateIcons/abs.gif',
+    imageurl: '/EventsLogo/BODYBUILDING.png',
+    time: '12pm Onwards',
+    description: 'This Workshop is about on Web3',
+  },
+  {
+    date: '11 Oct 2023',
+    title: 'Box Cricket',
+    iconurl:'/AnimateIcons/cricket.gif',
+    imageurl: '/EventsLogo/BOXCRICKET.png',
+    time: '12pm Onwards',
+    description: 'This Workshop is about on Web3',
+  },
+  {
+    date: '11 Oct 2023',
+    title: 'Lens Crafter',
+    iconurl:'/AnimateIcons/photo-camera.gif',
+    imageurl: '/EventsLogo/Lens Crafters.png',
+    time: '10am Onwards',
+    description: 'This Workshop is about on Web3',
+  },
+  {
+    date: '12 Oct 2023',
+    title: 'BGMI',
+    iconurl:'/AnimateIcons/gamer.gif',
+    imageurl: '/EventsLogo/BGMI.png',
+    time: '11am Onwards',
+    description: 'This Workshop is about on Web3',
+  },
+  {
+    date: '12 Oct 2023',
+    title: 'Valorant',
+    iconurl:'/AnimateIcons/players.gif',
+    imageurl: '/EventsLogo/VALROANT.png',
+    time: '6pm Onwards',
+    description: 'This Workshop is about on Web3',
+  },
+  {
+    date: '12 Oct 2023',
+    title: 'Futsal',
+    iconurl:'/AnimateIcons/football-player.gif',
+    imageurl: '/EventsLogo//FOOTBALL.png',
+    time: '12pm Onwards',
+    description: 'This Workshop is about on Web3',
+  },
+  {
+    date: '12 Oct 2023',
+    title: 'Rhthym encore',
+    iconurl:'/AnimateIcons/fan.gif',
+    imageurl: '/EventsLogo/DANCE.png',
+    time: '4pm Onwards',
+    description: 'This Workshop is about on Web3',
+  },
   
+  
+ 
   
 ];
 

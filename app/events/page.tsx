@@ -15,12 +15,12 @@ type Event = {
 };
 
 function EventsPage() {
-  // Sample event data
-  const events: Event[] = [
+  // Technical events
+  const techEvents: Event[] = [
     {
       id: 1,
       title: 'Event 01 - Optimiser',
-      date:  '📅 11 Oct-2023 ⌚ 09AM-11:30PM',
+      date:  '📅 11 Oct-2023 ⌚ 09AM-11:30AM',
       image: 'https://img.playbook.com/jekhArTgevxPu2qopO9EDfyuYeTWh49AvN3qIhVLDDk/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljL2NhYmRhYTc1/LTZjODgtNDNiMS1h/ODI3LWE4MjZiNGM1/MWUyYQ',
       description: '🔥Are you ready for the ultimate coding challenge? The Coding Ninja Optimiser coding round is here to test your skills and push you to your limits.  Prepare to plunge into the world of optimization, where every line of code counts. It is designed to test your skills, knowledge, and ability to think on your feet. In this round, you will be given problems that require you to think critically and come up with the most efficient solutions. 🏆So gear up, sharpen your coding skills, and get ready to showcase your coding skills.',
       registerLink: 'https://forms.gle/jnbXHTnWav5GxW7dA', // Add the registration link
@@ -46,7 +46,7 @@ function EventsPage() {
       title: 'Event 04 - Webnetic',
       date:  '📅 11 Oct-2023 ⌚ 02PM-03PM ',
       image: 'https://img.playbook.com/gGx0aTOo7FeHaJQdHA7oZKcoPDVevmwHbfrsdRoXUJE/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljL2IxZmQyN2Zm/LTZlZDUtNDUzNC1h/NDM0LTljMmJmOTYy/YWVhZg',
-      description: '💻In the vast digital expanse of the web, where ideas come to life and creativity knows no bounds, the webnetic- is an event that sends waves of excitement through the tech community. This thrilling competition  invites all the best and brightest minds in the field of front-end development, challenging them to showcase their skills and push the boundaries of what is possible on the web. 🎖️This is not just a competition, but a platform for designers to showcase their skills and compete for the title of Front-End Champion. ',
+      description: '💻In the vast digital expanse of the web, where ideas come to life and creativity knows no bounds, the webnetic- is an event that sends waves of excitement through the tech community. This thrilling competition  invites all the best and brightest minds in the field of front-end development, challenging them to showcase their skills and push the boundaries of what is possible on the web. 🎖This is not just a competition, but a platform for designers to showcase their skills and compete for the title of Front-End Champion. ',
       registerLink: 'https://forms.gle/baueCfcwBFumSE6V6', // Add the registration link
     },
     {
@@ -86,13 +86,93 @@ function EventsPage() {
       title: 'Event 09 - Power Bi',
       date:  '📅 13 Oct-2023 ⌚ 03PM-4:30PM ',
       image: 'https://img.playbook.com/9AUDUzGMmu-UgIBexOhs6pG64OtNSWSzNO9_RhGOB6k/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljL2Y0NGJkNTE5/LWEzZGItNDA5OS1i/ZGRjLTE1MjM1ODM2/ZGRiOA',
-      description: 'Unleash the potential of data visualisation with our immersive Power BI workshop. ⚙️ Discover the power of Power BI and take your data visualisation skills to the next level. Dive deeper into connecting and analysing various data sources. Unravel your creativity with eye-catching visualisations and construct interactive dashboards that will captivate your audience. 📊 From advanced data modelling techniques to compelling storytelling, this program will equip you with the skills to analyse data, gain valuable insights, and effectively communicate your findings.',
+      description: 'Unleash the potential of data visualisation with our immersive Power BI workshop. ⚙ Discover the power of Power BI and take your data visualisation skills to the next level. Dive deeper into connecting and analysing various data sources. Unravel your creativity with eye-catching visualisations and construct interactive dashboards that will captivate your audience. 📊 From advanced data modelling techniques to compelling storytelling, this program will equip you with the skills to analyse data, gain valuable insights, and effectively communicate your findings.',
       registerLink: 'https://forms.gle/3bzLjQv7RhqNkKEy5', // Add the registration link
     },
-   
-    
-    
-    // Add more event objects here
+    {
+        id: 1,
+        title: 'Event 10 - React kickstart',
+        date:  '📅 13 Oct-2023 ⌚ 12PM-2PM ',
+        image: 'https://img.playbook.com/pPwCOc63DrcH5zBrrWve3OVr75gbjMaRy5uXRRs_my8/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljL2Q2ZjIzMzU5/LTFjOWYtNDBhMS05/MWI4LWFjOTlmYWM0/Y2FlOQ',
+        description: 'Are you eager to explore the world of React development and build dynamic web applications? Look no further! Join our ReactKickstart Workshop at Compufest 2023.🪄 This immersive event offers hands-on learning, interactive sessions with seasoned instructors, practical examples, and a Q&A session to clear your doubts. So come up and join to the ReactKickStart Workshop!!',
+        registerLink: 'https://forms.gle/t5ZfBiJ2rkLSWNqy5', // Add the registration link
+    },
+    {
+        id: 1,
+        title: 'Event 11 - Cloud Skill Challenge',
+        date:  '📅 13 Oct-2023 ⌚ 2PM-3PM ',
+        image: 'https://img.playbook.com/nB8xnT1AeerrAk1V_GiZ1v0YGf_f1Vo3QZ9TGfR3OJA/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljL2YxZjFiYTll/LTdkY2EtNDllMC1h/NjU2LTMxMDZhNjYw/NTYzNg',
+        description:"Are you ready to conquer the clouds? The Cloud Skill Challenge is your chance to shine! 💡 It's the ultimate test of your cloud computing expertise. In this thrilling competition, participants tackle real-world cloud tasks, showcasing their skills and innovation. Join us and compete against the best in the cloud arena. 🏆 Elevate your career, solve complex challenges, and emerge as a cloud champion. 🌟 It's time to soar above the rest - are you ready for the Cloud Skill Challenge? ☁",
+        registerLink: 'https://forms.gle/3qdRJ72S6oF7jQ8d7',
+    }    
+  ];
+
+   // Non-Technical events
+  const nontechEvents: Event[] = [
+    {
+      id: 1,
+      title: 'Event 01 - Chess',
+      date:  '📅 11 Oct-2023 ⌚ 10AM-12PM',
+      image: 'https://img.playbook.com/kruaRnkNYJrWr7HpgMkc95WiWoIgD1ATrVaxW9BY_CE/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljL2IyMzk3YmEz/LTFiN2ItNDMyYS1i/M2JmLTQ1YTNmMDFm/NjQyOA',
+      description: "",
+      registerLink: 'https://forms.gle/SKK6s7bFAaAwZUV38', // Add the registration link
+    },
+    {
+    id: 1,
+    title: 'Event 02 - Power Rumble',
+    date:  '📅 11 Oct-2023 ⌚ 12PM onwards',
+    image: 'https://img.playbook.com/tGg17paNPBerCEe5tGU08ZkFI7jgx72nMqF22jjF95g/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljL2YzN2M1NTQ0/LTJiNTItNGM3My1h/ZmQxLThkN2IyZWIz/OWRhYw',
+    description: "",
+    registerLink: 'https://forms.gle/E6DBbHq8BGLLfSNA8', // Add the registration link
+    },
+    {
+    id: 1,
+    title: 'Event 03 - Box Cricket',
+    date:  '📅 11 Oct-2023 ⌚ 12PM onwards',
+    image: 'https://img.playbook.com/CkATd1PuDVHJdLZUEgZY9h8hqy5s3ikcUCUuWuyJNLk/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljL2JhMTdhZjFk/LTdjNzktNGM2YS05/MDEyLTVhNTVhNDg5/YjliMQ',
+    description: "",
+    registerLink: 'https://forms.gle/r8cvzREMkbXX72Cv8', // Add the registration link
+    },
+    {
+    id: 1,
+    title: 'Event 04 - Lens Crafter',
+    date:  '📅 11 Oct-2023 ⌚Complete day',
+    image: 'https://img.playbook.com/vj9ZIyJSm5FHPHK8Srdk4IUiFKOQu8WyEJes5o6YPH8/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljL2E3NDUxZDJj/LWJiMjYtNGViNi05/YWYxLTRmYzJjNzU5/NWVkNA',
+    description: "",
+    registerLink: 'https://forms.gle/RcPCWYXwe47Rwfvn9', // Add the registration link
+    },
+    {
+    id: 1,
+    title: 'Event 05 - BGMI',
+    date:  '📅 11 & 12 Oct-2023 ⌚11 am onwards',
+    image: 'https://img.playbook.com/Y5xgrsrDwZHw3asTB6O1hpsIQYoErNyNlG2E56CapPM/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzA4MzU1MTA1/LWY3NDYtNGJiYi1i/NjkzLWQ2Yzk0YmRk/NmQ3NA',
+    description: "",
+    registerLink: 'https://forms.gle/npr4RwkY4ywtSCmY7', // Add the registration link
+    },
+    {
+    id: 1,
+    title: 'Event 06 - Valorant',
+    date:  '📅 11 Oct-2023 ⌚6 pm onwards',
+    image: 'https://img.playbook.com/YMrbK3mII6s-ybKHayQvYSrOLZcvyPrDM8mkUm_ttyo/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljL2MzZTExYjUy/LTQyMDMtNDUzYy05/Njc5LTBmZmU3NjFh/MzU4NA',
+    description: "",
+    registerLink: 'https://forms.gle/XSqStySzzXC8VaX49', // Add the registration link
+    },  
+    {
+    id: 1,
+    title: 'Event 07 - Futsal',
+    date:  '📅 12 Oct-2023 ⌚12 pm onwards',
+    image: 'https://img.playbook.com/Q5ANF_09_2RJpbKWA3gc9k8vpT1NQXSCszzmW7rmA5E/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzkyNzk3NGVj/LTE3YjItNDhjMi1i/Y2M3LWNkZTUwZDUz/YWMyYw',
+    description: "",
+    registerLink: 'https://forms.gle/PHw6pR9fYQxTZt1w7', // Add the registration link
+    },
+    {
+    id: 1,
+    title: 'Event 08 - Rhythmn Encore',
+    date:  '📅 12 Oct-2023 ⌚4 pm onwards',
+    image: 'https://img.playbook.com/tHgSlCWyNlf5iJaKIVShkspGlZBQ5Rx17fXCwH4QSxs/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljL2M4OWFiMTY4/LWE5ZGYtNGMwMy1h/OWZmLTE4NTI5MWM3/ZTlmYg',
+    description: "",
+    registerLink: 'https://forms.gle/xvWAYsfeRoXdG2j26', // Add the registration link
+    },                      
   ];
 
   const [selectedEvent, setSelectedEvent] = useState<Event | null>(null);
@@ -106,14 +186,51 @@ function EventsPage() {
   };
 
   return (
+    
     <div className="events-page">
       <NavbarAvatarPreview />
       <Particles
               className="absolute inset-0 -z-10 animate-fade-in"
               quantity={200}
             />
+            <div className='w-full flex justify-center'><h1 className='text-white text-5xl font-sans'>Tech</h1></div>
       <div className="event-grid">  
-        {events.map((event) => (
+        {techEvents.map((event) => (
+          <div
+            key={event.id}
+            className="event-card"
+            onMouseEnter={() => handleEventHover(event)}
+            onMouseLeave={handleEventLeave}
+          >
+            <img src={event.image} alt={event.title} />
+            
+          </div>
+        ))}
+      </div>
+     
+      {selectedEvent && (
+  <div className="popup" onMouseEnter={() => handleEventHover(selectedEvent)} onMouseLeave={handleEventLeave}>
+    <div className="popup-content">
+      <img src={selectedEvent.image} alt={selectedEvent.title} />
+      <div className='description'>
+        <h2>{selectedEvent.title}</h2>
+        <p>{selectedEvent.date}</p>
+        <p>{selectedEvent.description}</p>
+        <a href={selectedEvent.registerLink} className="register-button" target="_blank" rel="noopener noreferrer">Register Now</a>
+        <button className="bg-yellow back-button" onClick={handleEventLeave} rel="noopener noreferrer">Back</button>
+      </div>
+    </div>
+  </div>
+
+
+  
+  
+ 
+)}
+
+<div className='w-full flex justify-center'><h1 className='text-white text-5xl font-sans'>Non-Tech</h1></div>
+<div className="event-grid">  
+        {nontechEvents.map((event) => (
           <div
             key={event.id}
             className="event-card"
@@ -139,8 +256,8 @@ function EventsPage() {
     </div>
   </div>
 )}
-
-    </div>
+ </div>
+   
   );
 }
 
