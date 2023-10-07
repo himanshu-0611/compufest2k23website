@@ -142,7 +142,7 @@ const timelineContent = [
   },
   {
     date: '12 Oct 2023',
-    title: 'Rhthym encore',
+    title: 'Rhthym Encore',
     iconurl:'/AnimateIcons/fan.gif',
     imageurl: '/EventsLogo/DANCE.png',
     time: '4pm Onwards',
