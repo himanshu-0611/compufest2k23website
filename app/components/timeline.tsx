@@ -68,7 +68,15 @@ const timelineContent = [
     description: 'This Workshop is about on Web3',
   },
   {
-    date: '12 Oct 2023',
+    date: '13 Oct 2023',
+    title: 'Cloud Skills Challenge',
+    iconurl:'/AnimateIcons/coding.gif',
+    imageurl: '/EventsLogo/Optimizer.png',
+    time: '2pm - 3pm',
+    description: 'This challenge is about learning cloud',
+  },   
+  {
+    date: '13 Oct 2023',
     title: 'Computing Technologies',
     iconurl:'/AnimateIcons/coding.gif',
     imageurl: '/EventsLogo/ComputingTechnology.png',
