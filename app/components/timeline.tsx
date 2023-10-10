@@ -14,6 +14,14 @@ const timelineContent = [
   },
   {
     date: '11 Oct 2023',
+    title: 'CyberSafe',
+    iconurl:'/AnimateIcons/cyborg.gif',
+    imageurl: '/EventsLogo/Scripted.png',
+    time: '12pm Onwards',
+    description: 'This Workshop is about on Cyber Security',
+  },
+  {
+    date: '11 Oct 2023',
     title: 'Versus Coding',
     iconurl:'/AnimateIcons/vs.gif',
     imageurl: '/EventsLogo/VersusCoding.png',
