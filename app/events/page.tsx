@@ -104,7 +104,15 @@ function EventsPage() {
         image: 'https://img.playbook.com/nB8xnT1AeerrAk1V_GiZ1v0YGf_f1Vo3QZ9TGfR3OJA/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljL2YxZjFiYTll/LTdkY2EtNDllMC1h/NjU2LTMxMDZhNjYw/NTYzNg',
         description:"Are you ready to conquer the clouds? The Cloud Skill Challenge is your chance to shine! 💡 It's the ultimate test of your cloud computing expertise. In this thrilling competition, participants tackle real-world cloud tasks, showcasing their skills and innovation. Join us and compete against the best in the cloud arena. 🏆 Elevate your career, solve complex challenges, and emerge as a cloud champion. 🌟 It's time to soar above the rest - are you ready for the Cloud Skill Challenge? ☁",
         registerLink: 'https://forms.gle/3qdRJ72S6oF7jQ8d7',
-    }    
+    },
+    {
+        id: 1,
+        title: 'Event 12 - CyberSafe',
+        date:  '📅 11 Oct-2023 ⌚ 12PM Onwards',
+        image: 'https://img.playbook.com/wDlgLX7giyjmhIau_X8hjDZn6z_zJomXTNZY3p-cuNE/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzg1MjE4NWM1/LWE2ODEtNDQxYS1h/MTIzLWUzMDJjYjNl/MmY5Ng',
+        description: "Join our 'Cyber Safe' Cyber Security Workshop! Learn to protect yourself online, defend against cyber threats, and safeguard your digital assets. Gain practical skills, expert insights, and network with like-minded individuals. Register now for a safer digital future! Gain valuable insights into the dynamic world of cybersecurity and explore potential career opportunities in this high-demand field.🚀✨",
+        registerLink: 'https://forms.gle/Z3nPMdSQME5eNyEw6',
+    } 
   ];
 
    // Non-Technical events
