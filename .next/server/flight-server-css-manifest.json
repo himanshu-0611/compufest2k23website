@@ -1,5 +1,10 @@
 {
   "cssImports": {
+    "D:\\compufest\\compufest2k23website\\app\\layout.tsx": [
+      "D:\\compufest\\compufest2k23website\\node_modules\\@next\\font\\google\\target.css?{\"path\":\"app\\\\layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"],\"variable\":\"--font-inter\"}],\"variableName\":\"inter\"}",
+      "D:\\compufest\\compufest2k23website\\node_modules\\@next\\font\\local\\target.css?{\"path\":\"app\\\\layout.tsx\",\"import\":\"\",\"arguments\":[{\"src\":\"../public/fonts/CalSans-SemiBold.ttf\",\"variable\":\"--font-calsans\"}],\"variableName\":\"calSans\"}",
+      "D:\\compufest\\compufest2k23website\\global.css"
+    ],
     "D:\\compufest\\compufest2k23website\\app\\page.tsx": [
       "D:\\compufest\\compufest2k23website\\node_modules\\react-vertical-timeline-component\\style.min.css",
       "D:\\compufest\\compufest2k23website\\node_modules\\swiper\\swiper.css",
@@ -7,14 +12,6 @@
       "D:\\compufest\\compufest2k23website\\node_modules\\swiper\\modules\\pagination.css",
       "D:\\compufest\\compufest2k23website\\global.css",
       "D:\\compufest\\compufest2k23website\\app\\page.css"
-    ],
-    "D:\\compufest\\compufest2k23website\\app\\layout.tsx": [
-      "D:\\compufest\\compufest2k23website\\node_modules\\@next\\font\\google\\target.css?{\"path\":\"app\\\\layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"],\"variable\":\"--font-inter\"}],\"variableName\":\"inter\"}",
-      "D:\\compufest\\compufest2k23website\\node_modules\\@next\\font\\local\\target.css?{\"path\":\"app\\\\layout.tsx\",\"import\":\"\",\"arguments\":[{\"src\":\"../public/fonts/CalSans-SemiBold.ttf\",\"variable\":\"--font-calsans\"}],\"variableName\":\"calSans\"}",
-      "D:\\compufest\\compufest2k23website\\global.css"
-    ],
-    "D:\\compufest\\compufest2k23website\\app\\events\\page.tsx": [
-      "D:\\compufest\\compufest2k23website\\app\\events\\preregister.css"
     ]
   },
   "cssModules": {
@@ -27,12 +24,6 @@
       "D:\\compufest\\compufest2k23website\\node_modules\\swiper\\modules\\effect-coverflow.css",
       "D:\\compufest\\compufest2k23website\\node_modules\\swiper\\modules\\pagination.css",
       "D:\\compufest\\compufest2k23website\\app\\page.css"
-    ],
-    "D:\\compufest\\compufest2k23website\\app\\events\\page": [
-      "D:\\compufest\\compufest2k23website\\global.css",
-      "D:\\compufest\\compufest2k23website\\node_modules\\@next\\font\\google\\target.css?{\"path\":\"app\\\\layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"],\"variable\":\"--font-inter\"}],\"variableName\":\"inter\"}",
-      "D:\\compufest\\compufest2k23website\\node_modules\\@next\\font\\local\\target.css?{\"path\":\"app\\\\layout.tsx\",\"import\":\"\",\"arguments\":[{\"src\":\"../public/fonts/CalSans-SemiBold.ttf\",\"variable\":\"--font-calsans\"}],\"variableName\":\"calSans\"}",
-      "D:\\compufest\\compufest2k23website\\app\\events\\preregister.css"
     ]
   }
 }

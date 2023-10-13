@@ -789,7 +789,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./app/components/navbar.tsx",
         "name": "*",
         "chunks": [
-          "app/events/page:static/chunks/app/events/page.js"
+          "app/page:static/chunks/app/page.js"
         ],
         "async": false
       },
@@ -797,7 +797,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./app/components/navbar.tsx",
         "name": "",
         "chunks": [
-          "app/events/page:static/chunks/app/events/page.js"
+          "app/page:static/chunks/app/page.js"
         ],
         "async": false
       },
@@ -805,7 +805,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./app/components/navbar.tsx",
         "name": "default",
         "chunks": [
-          "app/events/page:static/chunks/app/events/page.js"
+          "app/page:static/chunks/app/page.js"
         ],
         "async": false
       }
@@ -815,7 +815,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./app/components/particles.tsx",
         "name": "*",
         "chunks": [
-          "app/events/page:static/chunks/app/events/page.js"
+          "app/page:static/chunks/app/page.js"
         ],
         "async": false
       },
@@ -823,7 +823,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./app/components/particles.tsx",
         "name": "",
         "chunks": [
-          "app/events/page:static/chunks/app/events/page.js"
+          "app/page:static/chunks/app/page.js"
         ],
         "async": false
       },
@@ -831,7 +831,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./app/components/particles.tsx",
         "name": "default",
         "chunks": [
-          "app/events/page:static/chunks/app/events/page.js"
+          "app/page:static/chunks/app/page.js"
         ],
         "async": false
       }
@@ -1059,44 +1059,15 @@ self.__RSC_MANIFEST={
         ],
         "async": false
       }
-    },
-    "(app-client)/./app/events/page.tsx": {
-      "*": {
-        "id": "(sc_client)/./app/events/page.tsx",
-        "name": "*",
-        "chunks": [
-          "app/events/page:static/chunks/app/events/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./app/events/page.tsx",
-        "name": "",
-        "chunks": [
-          "app/events/page:static/chunks/app/events/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./app/events/page.tsx",
-        "name": "default",
-        "chunks": [
-          "app/events/page:static/chunks/app/events/page.js"
-        ],
-        "async": false
-      }
     }
   },
   "edgeSSRModuleMapping": {},
   "cssFiles": {
-    "D:\\compufest\\compufest2k23website\\app\\page": [
-      "static/css/app/page.css"
-    ],
     "D:\\compufest\\compufest2k23website\\app\\layout": [
       "static/css/app/layout.css"
     ],
-    "D:\\compufest\\compufest2k23website\\app\\events\\page": [
-      "static/css/app/events/page.css"
+    "D:\\compufest\\compufest2k23website\\app\\page": [
+      "static/css/app/page.css"
     ]
   },
   "clientModules": {
@@ -2828,19 +2799,33 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
+    "D:\\compufest\\compufest2k23website\\global.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/layout.css",
+        "static/css/app/page.css"
+      ]
+    },
+    "D:\\compufest\\compufest2k23website\\node_modules\\@next\\font\\google\\target.css?{\"path\":\"app\\\\layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"],\"variable\":\"--font-inter\"}],\"variableName\":\"inter\"}#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/layout.css"
+      ]
+    },
+    "D:\\compufest\\compufest2k23website\\node_modules\\@next\\font\\local\\target.css?{\"path\":\"app\\\\layout.tsx\",\"import\":\"\",\"arguments\":[{\"src\":\"../public/fonts/CalSans-SemiBold.ttf\",\"variable\":\"--font-calsans\"}],\"variableName\":\"calSans\"}#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/layout.css"
+      ]
+    },
     "D:\\compufest\\compufest2k23website\\app\\page.css#": {
       "id": "null",
       "name": "default",
       "chunks": [
         "static/css/app/page.css"
-      ]
-    },
-    "D:\\compufest\\compufest2k23website\\global.css#": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/page.css",
-        "static/css/app/layout.css"
       ]
     },
     "D:\\compufest\\compufest2k23website\\node_modules\\react-vertical-timeline-component\\style.min.css#": {
@@ -2899,7 +2884,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./app/components/navbar.tsx",
       "name": "*",
       "chunks": [
-        "app/events/page:static/chunks/app/events/page.js"
+        "app/page:static/chunks/app/page.js"
       ],
       "async": false
     },
@@ -2907,7 +2892,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./app/components/navbar.tsx",
       "name": "",
       "chunks": [
-        "app/events/page:static/chunks/app/events/page.js"
+        "app/page:static/chunks/app/page.js"
       ],
       "async": false
     },
@@ -2915,7 +2900,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./app/components/navbar.tsx",
       "name": "default",
       "chunks": [
-        "app/events/page:static/chunks/app/events/page.js"
+        "app/page:static/chunks/app/page.js"
       ],
       "async": false
     },
@@ -2923,7 +2908,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./app/components/particles.tsx",
       "name": "*",
       "chunks": [
-        "app/events/page:static/chunks/app/events/page.js"
+        "app/page:static/chunks/app/page.js"
       ],
       "async": false
     },
@@ -2931,7 +2916,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./app/components/particles.tsx",
       "name": "",
       "chunks": [
-        "app/events/page:static/chunks/app/events/page.js"
+        "app/page:static/chunks/app/page.js"
       ],
       "async": false
     },
@@ -2939,7 +2924,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./app/components/particles.tsx",
       "name": "default",
       "chunks": [
-        "app/events/page:static/chunks/app/events/page.js"
+        "app/page:static/chunks/app/page.js"
       ],
       "async": false
     },
@@ -3348,51 +3333,6 @@ self.__RSC_MANIFEST={
       "name": "value",
       "chunks": [
         "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "D:\\compufest\\compufest2k23website\\node_modules\\@next\\font\\google\\target.css?{\"path\":\"app\\\\layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"],\"variable\":\"--font-inter\"}],\"variableName\":\"inter\"}#": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/layout.css"
-      ]
-    },
-    "D:\\compufest\\compufest2k23website\\node_modules\\@next\\font\\local\\target.css?{\"path\":\"app\\\\layout.tsx\",\"import\":\"\",\"arguments\":[{\"src\":\"../public/fonts/CalSans-SemiBold.ttf\",\"variable\":\"--font-calsans\"}],\"variableName\":\"calSans\"}#": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/layout.css"
-      ]
-    },
-    "D:\\compufest\\compufest2k23website\\app\\events\\preregister.css#": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/events/page.css"
-      ]
-    },
-    "D:\\compufest\\compufest2k23website\\app\\events\\page.tsx": {
-      "id": "(app-client)/./app/events/page.tsx",
-      "name": "*",
-      "chunks": [
-        "app/events/page:static/chunks/app/events/page.js"
-      ],
-      "async": false
-    },
-    "D:\\compufest\\compufest2k23website\\app\\events\\page.tsx#": {
-      "id": "(app-client)/./app/events/page.tsx",
-      "name": "",
-      "chunks": [
-        "app/events/page:static/chunks/app/events/page.js"
-      ],
-      "async": false
-    },
-    "D:\\compufest\\compufest2k23website\\app\\events\\page.tsx#default": {
-      "id": "(app-client)/./app/events/page.tsx",
-      "name": "default",
-      "chunks": [
-        "app/events/page:static/chunks/app/events/page.js"
       ],
       "async": false
     }
