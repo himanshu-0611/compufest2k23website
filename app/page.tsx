@@ -40,7 +40,7 @@ export default function Home() {
                 className="z-10 text-7xl text-transparent duration-1000 bg-white cursor-default text-edge-outline animate-title font-display 
 							sm:text-9xl md:text-9xl whitespace-nowrap bg-clip-text bg-gradient-to-r to-green-600 via-white from-orange-400"
               >
-                <Timer />
+                {/* <Timer /> */}
                 <div className="flex justify-center align-center">
 
                 <img src="assets/Presents.png" style={{width: "130px"}} className="" alt="" />

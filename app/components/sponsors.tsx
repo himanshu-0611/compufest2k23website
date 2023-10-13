@@ -16,10 +16,10 @@ const Sponsors = () => {
     <div className="py-6 z-10  text-transparent  cursor-default text-edge-outline animate-title  whitespace-nowrap bg-clip-text">
       <div className="justify-items-center mb-10 lg:mb-0">
     
-      {/* <p className="text-3xl text-center font-sans text-white font-extrabold">In Colabration With </p>
+      <p className="text-3xl text-center font-sans text-white font-extrabold">In Colabration With </p>
       <p className="text-2xl text-center font-sans text-white leading-10 mt-8">Microsoft Learn Student Ambassador Program @Microsoft</p>
       <p className="text-2xl text-center font-sans text-white leading-10">DevBridge Community</p>
-      <p className="text-2xl text-center font-sans text-white leading-10 mb-[60px]">MLSA-USAR Chapter, GGSIPU, EDC.</p> */}
+      <p className="text-2xl text-center font-sans text-white leading-10 mb-[60px]">MLSA-USAR Chapter, GGSIPU, EDC.</p>
       
       <p className="text-3xl text-center font-sans text-white font-extrabold ">Sponsored By </p>
         <div className="lg:flex lg:flex-row ">
