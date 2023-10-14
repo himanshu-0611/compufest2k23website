@@ -17,7 +17,7 @@ const Sponsors = () => {
       <div className="justify-items-center mb-10 lg:mb-0">
     
       <div className="text-lg lg:text-2xl text-center font-sans text-white">
-      <p className="text-3xl font-extrabold">In Colabration With </p>
+      <p className="text-3xl font-extrabold">In Collabration With </p>
       <p className="leading-10 mt-8">Microsoft Learn Student Ambassador Program <span className="block lg:inline">@Microsoft</span> </p>
       <p className="leading-10">DevBridge Community</p>
       <p className="leading-10 mb-[60px]">MLSA-USAR Chapter, GGSIPU, EDC.</p>
